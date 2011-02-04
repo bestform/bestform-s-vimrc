@@ -13,9 +13,9 @@ Those submodules are currently being used. You can get the current version autom
     git submodules update
 
 
-* [gundo](github.com/sjl/gundo.vim)
-* [nerdcommenter](github.com/scrooloose/nerdcommenter)
-* [nerdtree](github.com/scrooloose/nerdtree)
-* [snipmate](github.com/msanders/snipmate.vim)
-* [vim-fugitive](github.com/tpope/vim-fugitive)
-* [vim-markdown](github.com/tpope/vim-markdown)
+* [gundo](http://guthub.com/sjl/gundo.vim)
+* [nerdcommenter](http://guthub.com/scrooloose/nerdcommenter)
+* [nerdtree](http://guthub.com/scrooloose/nerdtree)
+* [snipmate](http://guthub.com/msanders/snipmate.vim)
+* [vim-fugitive](http://guthub.com/tpope/vim-fugitive)
+* [vim-markdown](http://guthub.com/tpope/vim-markdown)
