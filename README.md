@@ -23,7 +23,6 @@ Those submodules are currently being used. You can get the current version autom
 * [nerdtree](http://guthub.com/scrooloose/nerdtree)
 * [snipmate](http://guthub.com/msanders/snipmate.vim)
 * [vim-fugitive](http://guthub.com/tpope/vim-fugitive)
-* [vim-markdown](http://guthub.com/tpope/vim-markdown)
 
 Other Plugins
 -------------
