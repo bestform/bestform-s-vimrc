@@ -24,7 +24,7 @@ set softtabstop=4
 set expandtab
 
 " start scrolling before cursor reaches border
-set scrolloff=3
+set scrolloff=6
 
 " yeeeaaaahh.. if you could just hilight the syntax.. that would be grreeaaaatt
 syntax enable
@@ -54,8 +54,6 @@ set showmatch
 " I want to switch buffers without saving.
 set hidden
 
-
-
 set showcmd
 set autoindent
 set wildmenu
@@ -82,3 +80,8 @@ nnoremap <Leader>g :GundoToggle<CR>
 
 " MiniBufExplorer
 nnoremap <Leader><Tab> :MiniBufExplorer<CR>
+
+" autosource the .vimrc file upon save
+if has("autocmd")
+  autocmd bufwritepost .vimrc source $MYVIMRC
+endif
