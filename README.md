@@ -3,7 +3,13 @@ bestform's vimrc
 
 This is my personal ~/.vim folder.
 
-submodules
+The .vimrc File
+---------------
+
+Please refer to the comments in the .vimrc file. I am trying to keep them comprehensive and logical (and sometimes even funny).
+In my personal setup(s) I've linked the `$HOME/.vimrc` file to the one in the archive (meaning: `$HOME/.vim/.vimrc`). I advice you to do the same to keep everything nicely bundles in one package.
+
+Submodules
 ----------
 
 Those submodules are currently being used. You can get the current version automatically by invocing:
@@ -19,8 +25,12 @@ Those submodules are currently being used. You can get the current version autom
 * [vim-fugitive](http://guthub.com/tpope/vim-fugitive)
 * [vim-markdown](http://guthub.com/tpope/vim-markdown)
 
-The .vimrc File
----------------
+Other Plugins
+-------------
 
-Please refer to the comments in the .vimrc file. I am trying to keep them comprehensive and logical (and sometimes even funny).
-In my personal setup(s) I've linked the `$HOME/.vimrc` file to the one in the archive (meaning: `$HOME/.vim/.vimrc`). I advice you to do the same to keep everything nicely bundles in one package.
+There are also plugins that don't provide their own repositories. Those are managed here.
+
+* [MiniBufExplorer](http://www.vim.org/scripts/script.php?script_id=159)
+* [pythoncomplete](http://www.vim.org/scripts/script.php?script_id=1542)
+* [yankring](http://www.vim.org/scripts/script.php?script_id=1234)
+

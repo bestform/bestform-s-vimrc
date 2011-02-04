@@ -73,10 +73,12 @@ map <Leader>O :NERDTreeClose<CR>
 
 " YankRing
 nnoremap <silent> <F3> :YRShow<cr>
+nnoremap <silent> <Leader>y :YRShow<cr>
 inoremap <silent> <F3> <ESC>:YRShow<cr>
 
 " Gundo (requires Vim 7.3+)
 nnoremap <F5> :GundoToggle<CR>
+nnoremap <Leader>g :GundoToggle<CR>
 
 " MiniBufExplorer
 nnoremap <Leader><Tab> :MiniBufExplorer<CR>
