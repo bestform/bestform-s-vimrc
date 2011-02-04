@@ -9,8 +9,8 @@ submodules
 
 Those submodules are currently being used. You can get the current version automatically by invocing:
 
-    git submodules init
-    git submodules update
+    git submodule init
+    git submodule update
 
 
 * [gundo](http://guthub.com/sjl/gundo.vim)
