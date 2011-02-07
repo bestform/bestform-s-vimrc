@@ -1,9 +1,10 @@
+" Load pathogen, be happy
+call pathogen#runtime_append_all_bundles() 
+call pathogen#helptags()
+
 let mapleader=","
 filetype plugin on
 set encoding=utf8
-
-" Load pathogen, be happy
-call pathogen#runtime_append_all_bundles() 
 
 " Some mappings to make vim on german keyboard more sane
 noremap ö :
