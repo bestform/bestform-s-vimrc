@@ -18,3 +18,7 @@
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
     ignore = untracked
+[submodule "bundle/twitvim"]
+	path = bundle/twitvim
+	url = https://github.com/vim-scripts/TwitVim.git
+    ignore = untracked

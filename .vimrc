@@ -86,3 +86,6 @@ nnoremap <Leader><Tab> :MiniBufExplorer<CR>
 if has("autocmd")
   autocmd bufwritepost .vimrc source $MYVIMRC
 endif
+
+" TwitVim settings
+let twitvim_count = 50
