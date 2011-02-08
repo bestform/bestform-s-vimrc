@@ -88,4 +88,4 @@ if has("autocmd")
 endif
 
 " TwitVim settings
-let twitvim_count = 50
+let twitvim_count = 100
