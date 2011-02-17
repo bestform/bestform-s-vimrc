@@ -42,13 +42,6 @@ set hlsearch
 set ignorecase
 set smartcase
 
-" i always want the whole line
-set gdefault		
-
-" make standard search sane (no, vim, I DON'T want to escape brackets! ktnxbye)
-nnoremap / /\v
-vnoremap / /\v
-
 " show me my matching bracket
 set showmatch
 
@@ -89,3 +82,4 @@ endif
 
 " TwitVim settings
 let twitvim_count = 100
+let twitvim_enable_python = 1
