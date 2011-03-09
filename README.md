@@ -24,6 +24,7 @@ Those submodules are currently being used. You can get the current version autom
 * [snipmate](http://guthub.com/msanders/snipmate.vim)
 * [vim-fugitive](http://guthub.com/tpope/vim-fugitive)
 * [TwitVim](https://github.com/vim-scripts/TwitVim)
+* [tabular](https://github.com/godlygeek/tabular)
 
 Other Plugins
 -------------
