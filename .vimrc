@@ -10,7 +10,7 @@ set encoding=utf8
 noremap ö :
                
 " set standard encryption method to blowfish (strong)
-set cm=blowfish
+if exists('+cryptmethod') | set cryptmethod=blowfish | endif
 
 " unmark hilighted search results
 noremap <Leader>m :nohlsearch<CR>

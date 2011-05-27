@@ -33,5 +33,5 @@ There are also plugins that don't provide their own repositories. Those are mana
 
 * [MiniBufExplorer](http://www.vim.org/scripts/script.php?script_id=159)
 * [pythoncomplete](http://www.vim.org/scripts/script.php?script_id=1542)
-* [yankring](http://www.vim.org/scripts/script.php?script_id=1234)
+* [yankring](http://www.vim.org/scripts/script.php?script_id=1234) (Currently not active!)
 
