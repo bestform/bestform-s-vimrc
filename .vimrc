@@ -8,6 +8,9 @@ set encoding=utf8
 
 " Some mappings to make vim on german keyboard more sane
 noremap ö :
+               
+" set standard encryption method to blowfish (strong)
+set cm=blowfish
 
 " unmark hilighted search results
 noremap <Leader>m :nohlsearch<CR>
